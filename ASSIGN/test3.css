@@ -1,0 +1,9 @@
+.grid-container{
+    display: grid;
+    grid-template-columns:30px 30px auto 30px;
+}
+
+.grid-container{
+    display: grid;
+    grid-template-rows: 50px 50px;
+}
